@@ -1,7 +1,14 @@
-﻿namespace Foxic.Entities
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Foxic.Entities
 {
 	public class Tag:BaseEntity
 	{
-        public int MyProperty { get; set; }
-    }
+		public string Name { get; set; }
+		public List<DressTag> DressTags { get; set; }
+		public Tag()
+		{
+			DressTags = new();
+		}
+	}
 }

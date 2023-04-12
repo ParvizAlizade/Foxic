@@ -1,6 +1,7 @@
 ﻿using Foxic.DAL;
 using Foxic.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Foxic.Controllers
@@ -8,7 +9,6 @@ namespace Foxic.Controllers
     public class HomeController : Controller
     {
 		readonly FoxicDbContext _context;
-
 		public HomeController(FoxicDbContext context)
 		{
 			_context = context;
@@ -17,6 +17,7 @@ namespace Foxic.Controllers
 		{
 			List<Slider> slider = _context.Sliders.OrderBy(s => s.Order).ToList();
 			
+
 			return View(slider);
 		}
 

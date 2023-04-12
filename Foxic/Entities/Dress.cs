@@ -17,7 +17,7 @@ namespace Foxic.Entities
         public int Barcode { get; set; }
         public Collection Collection { get; set; }
         public GlobalTab GlobalTab { get; set; }
-        public ICollection<Introduction> Introductions { get; set; }
+        public Introduction Introduction { get; set; }
         public ICollection<DressImage> DressImages { get; set; }
         public ICollection<DressColorSize> DressColorSizes { get; set; }
         public ICollection<DressCategory> DressCategories { get; set; }
@@ -25,7 +25,6 @@ namespace Foxic.Entities
 
         public Dress()
         {
-            Introductions = new List<Introduction>();
             DressImages = new List<DressImage>();
             DressColorSizes = new List<DressColorSize>();
             DressCategories = new List<DressCategory>();

@@ -7,6 +7,6 @@
 
         public string DryClean { get; set; }
         public string Chlorine { get; set; }
-        public Dress Dress { get; set; }
+        public List<Dress> Dresses{ get; set; }
     }
 }

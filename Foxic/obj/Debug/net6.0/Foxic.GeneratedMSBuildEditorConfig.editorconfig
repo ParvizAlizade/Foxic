@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\LENOVO\source\repos\Foxic\Foxic
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Views/Dress/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJlc3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Views/Dress/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJlc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/source/repos/Foxic/Foxic/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
