@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RIUaUwdT9mcU4BC2E+Kakq8mp3ZsbMsTd4Ws2EcjlVE=",
+  "Hash": "IHzM3i+VskHyCuzD58g8ScZSDm7Rcetyv3gW0RhX+kk=",
   "Source": "Foxic",
   "BasePath": "_content/Foxic",
   "Mode": "Default",
@@ -9773,6 +9773,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\skins\\fashion\\products\\product-30-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fashion\\slider\\girl-48255.mp4",
+      "SourceId": "Foxic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\",
+      "BasePath": "_content/Foxic",
+      "RelativePath": "assets/images/skins/fashion/slider/girl-48255.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\skins\\fashion\\slider\\girl-48255.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fashion\\slider\\istockphoto-935333964-640_adpp_is.mp4",
+      "SourceId": "Foxic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\",
+      "BasePath": "_content/Foxic",
+      "RelativePath": "assets/images/skins/fashion/slider/istockphoto-935333964-640_adpp_is.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\skins\\fashion\\slider\\istockphoto-935333964-640_adpp_is.mp4"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fashion\\slider\\slide-fashion-01.png",
