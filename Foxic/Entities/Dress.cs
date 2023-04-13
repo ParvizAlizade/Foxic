@@ -5,12 +5,11 @@ namespace Foxic.Entities
 	public class Dress:BaseEntity
 	{
         public string Name { get; set; }
-        public int Price { get; set; }
-        public int Discount { get; set; }
-        public int DisountPrice { get; set; }
+        public double Price { get; set; }
+        public double Discount { get; set; }
+        public double DisountPrice { get; set; }
         public string Description { get; set; }
         public string ShortDesc { get; set; }
-        public string LongDesc{ get; set; }
         public string SKU { get; set; }
         public bool IsAvailable { get; set; }
         public int Availability { get; set; }
@@ -20,7 +19,7 @@ namespace Foxic.Entities
         public Introduction Introduction { get; set; }
         public ICollection<DressImage> DressImages { get; set; }
         public ICollection<DressColorSize> DressColorSizes { get; set; }
-        public ICollection<DressCategory> DressCategories { get; set; }
+        public List<DressCategory> DressCategories { get; set; }
         public ICollection<DressTag> DressTags { get; set; }
 
         public Dress()

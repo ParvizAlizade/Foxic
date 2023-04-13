@@ -98,11 +98,11 @@ namespace Foxic.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Discount")
-                        .HasColumnType("int");
+                    b.Property<double>("Discount")
+                        .HasColumnType("float");
 
-                    b.Property<int>("DisountPrice")
-                        .HasColumnType("int");
+                    b.Property<double>("DisountPrice")
+                        .HasColumnType("float");
 
                     b.Property<int>("GlobalTabId")
                         .HasColumnType("int");
@@ -113,16 +113,12 @@ namespace Foxic.Migrations
                     b.Property<bool>("IsAvailable")
                         .HasColumnType("bit");
 
-                    b.Property<string>("LongDesc")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Price")
-                        .HasColumnType("int");
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
 
                     b.Property<string>("SKU")
                         .IsRequired()

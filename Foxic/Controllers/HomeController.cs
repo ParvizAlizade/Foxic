@@ -16,7 +16,11 @@ namespace Foxic.Controllers
 		public IActionResult Index()
 		{
 			List<Slider> slider = _context.Sliders.OrderBy(s => s.Order).ToList();
-			
+			ViewBag.Dresses = _context.Dresses
+									 .Include(p => p.DressImages).Include(p => p.Collection)
+										 .OrderByDescending(p => p.Id)
+											 .Take(4)
+												 .ToList();
 
 			return View(slider);
 		}
