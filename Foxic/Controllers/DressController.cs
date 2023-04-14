@@ -63,7 +63,7 @@ namespace Foxic.Controllers
 								.Include(d => d.DressImages)
 										.Include(d => d.DressTags)
 											.ThenInclude(dt => dt.Tag)
-                                            .Include(d=>d.Collection)
+                                            .Include(d=>d.Collection).Include(d=>d.DressColorSizes).ThenInclude(dsc=>dsc.Color)
 												.Include(d => d.DressCategories)
 													.ThenInclude(dc => dc.Category).AsSingleQuery().FirstOrDefault(d => d.Id == id);
 

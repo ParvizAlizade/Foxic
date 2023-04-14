@@ -80,11 +80,19 @@
 				<div class="prd-block_info prd-block_info--style1" data-prd-handle="/products/copy-of-suede-leather-mini-skirt">
 					<div class="prd-block_info-top prd-block_info_item order-0 order-md-2">
 						<div class="prd-block_price prd-block_price--style2">
-							<div class="prd-block_price--actual">@Model.Price</div>
+							@if (Model.Discount>0)
+							{
+							<div class="prd-block_price--actual">$@Model.DisountPrice</div>
 							<div class="prd-block_price-old-wrap">
-								<span class="prd-block_price--old">$210.00</span>
-								<span class="prd-block_price--text">You Save: $131.99 (28%)</span>
-							</div>
+								<span class="prd-block_price--old">$@Model.Price</span>
+									<span class="prd-block_price--text">You Save: $@Model.Discount (@(Math.Round(((Model.Price - Model.DisountPrice) / Model.Price) * 100)),2%) </span>
+								</div>
+							}
+							else
+							{
+								<div class="prd-block_price--actual">$@Model.Price</div>
+
+							}
 						</div>
 						<div class="prd-block_viewed-wrap d-none d-md-flex">
 							<div class="prd-block_viewed">
@@ -95,7 +103,7 @@
 					</div>
 					<div class="prd-block_description prd-block_info_item ">
 						<h3>Short description</h3>
-						<p>Model is 5'9" wearing Size XS TallAnd without further ado, we give you our finest Shopify Theme FOXic! It is a subtle, complex and yet an extremely easy to use template for anyone, who wants to create own website in ANY area of expertise.</p>
+						<p>@Model.ShortDesc</p>
 						<div class="mt-1"></div>
 						<div class="row vert-margin-less">
 							<div class="col-sm">
@@ -170,15 +178,14 @@
 										<option value="Red">Red</option>
 									</select>
 									<ul class="images-list js-size-list" data-select-id="SingleOptionSelector-0">
-										<li class="active">
-											<a href="#" data-value="Beige" data-toggle="tooltip" data-placement="top" data-original-title="Beige"><span class="image-container image-container--product"><img src="/assets/images/skins/fashion/product-page/product-01.jpg" alt=""></span></a>
-										<li>
-										<li>
-											<a href="#" data-value="Black" data-toggle="tooltip" data-placement="top" data-original-title="Black"><span class="image-container image-container--product"><img src="/assets/images/skins/fashion/product-page/product-04.jpg" alt=""></span></a>
-										<li>
-										<li>
-											<a href="#" data-value="Red" data-toggle="tooltip" data-placement="top" data-original-title="Red"><span class="image-container image-container--product"><img src="/assets/images/skins/fashion/product-page/product-07.jpg" alt=""></span></a>
-										</li>
+									
+										@foreach(var item in Model.DressColorSizes)
+										{
+											<li>
+												<a href="#" data-value="Red" data-toggle="tooltip" data-placement="top" data-original-title="Red"><span class="image-container image-container--product">
+													 <img src="/assets/images/colorswatch/@item.Color.ColorPath" alt=""></span></a>
+											</li>
+										}
 									</ul>
 								</div>
 								<div class="prd-size swatches">
