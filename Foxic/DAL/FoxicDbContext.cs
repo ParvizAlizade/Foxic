@@ -1,10 +1,11 @@
 ﻿using Foxic.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Foxic.DAL
 {
-    public class FoxicDbContext :DbContext
-    {
+    public class FoxicDbContext : IdentityDbContext<User>
+	{
         public FoxicDbContext(DbContextOptions<FoxicDbContext>options):base(options) 
         {
 
@@ -34,6 +35,7 @@ namespace Foxic.DAL
 			modelBuilder.Entity<Setting>()
 				.HasIndex(s => s.Key)
 				.IsUnique();
+			base.OnModelCreating(modelBuilder);
 		}
 	}
 }

@@ -15,7 +15,7 @@
 							<i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star"></i>
 							<span class="reviews-link"><a href="#" class="js-reviews-link"> (17 reviews)</a></span>
 						</div>
-						<h1 class="prd-block_title">Leather Pegged Pants</h1>
+						<h1 class="prd-block_title">@Model.Name</h1>
 					</div>
 				</div>
 			</div>
@@ -27,6 +27,9 @@
 				</div>
 			</div>
 		</div>
+		
+
+
 		<div class="row prd-block prd-block--prv-bottom">
 			<div class="col-md-8 col-lg-8 col-xl-8 aside--sticky js-sticky-collision">
 				<div class="aside-content">
@@ -34,48 +37,38 @@
 					<div class="mb-2 js-prd-m-holder"></div>
 					<div class="prd-block_main-image">
 						<div class="prd-block_main-image-holder" id="prdMainImage">
-							<div class="product-main-carousel js-product-main-carousel" data-zoom-position="inner">
-								<div data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-01.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-01.jpg" /></span></div>
-								<div data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-02.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-02.jpg" /></span></div>
-								<div class="inner-video js-inner-video">
-									<video preload="metadata" controls="controls" playsinline="playsinline">
-										<source src="/assets/images/skins/fashion/product-page/product-video.mp4" type="video/mp4">
-									</video>
-								</div>
-								<div data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-03.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-03.jpg" /></span></div>
-								<div data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-04.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-04.jpg" /></span></div>
-								<div data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-05.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-05.jpg" /></span></div>
-								<div data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-06.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-06.jpg" /></span></div>
-								<div data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-07.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-07.jpg" /></span></div>
-								<div data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-08.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-08.jpg" /></span></div>
-								<div data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-09.jpg" class="lazyload fade-up elzoom" alt="" data-zoom-image="/assets/images/skins/fashion/product-page/product-09.jpg" /></span></div>
+							<div class="product-main-carousel js-product-main-carousel">
+								@foreach (var item in Model.DressImages)
+								{
+									<div data-value="Beige"><span class="prd-img"><img src="/assets/images/products/@item.Path" data-src="/assets/images/products/@item.Path" class="lazyload fade-up" alt=""/></span></div>
+								}
 							</div>
 							<div class="prd-block_label-sale-squared justify-content-center align-items-center"><span>Sale</span></div>
 						</div>
 						<div class="prd-block_main-image-links">
-							<a data-fancybox data-width="900" href="https://www.youtube.com/watch?v=Zk3kr7J_v3Q" class="prd-block_video-link"><i class="icon-video"></i></a>
-							<a href="/assets/images/products//product-01.jpg" class="prd-block_zoom-link"><i class="icon-zoom-in"></i></a>
+							@foreach (var item in Model.DressImages)
+							{
+								if ((bool)item.IsMain)
+								{
+									<a href="/assets/images/products/@item.Path" class="prd-block_zoom-link"><i class="icon-zoom-in"></i></a>
+								}
+							}
 						</div>
 					</div>
 					<div class="product-previews-wrapper">
 						<div class="product-previews-carousel js-product-previews-carousel">
-							<a href="#" data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-01.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-02.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" class="prd-block_video-link video-slide">
-								<span><span><i class="icon icon-play"></i><img src="/assets/images/skins/fashion/product-page/product-video.jpg" alt="" /></span></span>
-							</a>
-							<a href="#" data-value="Beige"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-03.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-04.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-05.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Black"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-06.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-07.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-08.jpg" class="lazyload fade-up" alt="" /></span></a>
-							<a href="#" data-value="Red"><span class="prd-img"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/assets/images/skins/fashion/product-page/product-09.jpg" class="lazyload fade-up" alt="" /></span></a>
+							@foreach (var item in Model.DressImages)
+							{
+								<a href="#" data-value="Beige"><span class="prd-img"><img src="/assets/images/products/@item.Path" data-src="/assets/images/products/@item.Path" class="lazyload fade-up" alt="" /></span></a>
+
+							}
 						</div>
 					</div>
 					<!-- /Product Gallery -->
 				</div>
 			</div>
+
+
 			<div class="col-md-10 col-lg-10 col-xl-10 mt-1 mt-md-0">
 				<div class="prd-block_info prd-block_info--style1" data-prd-handle="/products/copy-of-suede-leather-mini-skirt">
 					<div class="prd-block_info-top prd-block_info_item order-0 order-md-2">
@@ -108,21 +101,21 @@
 						<div class="row vert-margin-less">
 							<div class="col-sm">
 								<ul class="list-marker">
-									<li>100% Polyester</li>
-									<li>Lining:100% Viscose</li>
+									<li>@Model.Introduction.Polyester</li>
+									<li>Lining:@Model.Introduction.Lining</li>
 								</ul>
 							</div>
 							<div class="col-sm">
 								<ul class="list-marker">
-									<li>Do not dry clean</li>
-									<li>Only non-chlorine</li>
+									<li>@Model.Introduction.DryClean</li>
+									<li>@Model.Introduction.Chlorine</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 					<div class="prd-progress prd-block_info_item" data-left-in-stock="">
 						<div class="prd-progress-text">
-							Hurry Up! Left <span class="prd-progress-text-left js-stock-left">26</span> in stock
+							Hurry Up! Left <span class="prd-progress-text-left js-stock-left">@Model.</span> in stock
 						</div>
 						<div class="prd-progress-text-null"></div>
 						<div class="prd-progress-bar-wrap progress">
@@ -155,16 +148,28 @@
 						<div class="two-column">
 							<p>
 								Availability:
-								<span class="prd-in-stock" data-stock-status="">In stock</span>
+									@if (Model.IsAvailable==true)
+									{
+									<span class="prd-in-stock" data-stock-status="">
+									In Stock
+									</span>
+								}
+								else
+								{
+									<span class="prd-in-stock" data-stock-status="">
+										Stock Coming Soon
+									</span>
+								}
 							</p>
 							<p class="prd-taxes">
 								Tax Info:
 								<span>Tax included.</span>
 							</p>
-							<p>Collection: <span> <a href="collections.html" data-toggle="tooltip" data-placement="top" data-original-title="View all">Women</a></span></p>
-							<p>Sku: <span data-sku="">FOXic-45812</span></p>
+							<p>Collection: <span> <a href="collections.html" data-toggle="tooltip" data-placement="top" data-original-title="View all">@Model.Collection.Name
+							</a></span></p>
+							<p>Sku: <span data-sku="">@Model.SKU</span></p>
 							<p>Vendor: <span>Banita</span></p>
-							<p>Barcode: <span>314363563</span></p>
+							<p>Barcode: <span>@Model.Barcode</span></p>
 						</div>
 					</div>
 					<div class="order-0 order-md-100">
@@ -393,8 +398,8 @@
 			<div role="tabpanel" class="tab-pane fade" id="Tab1">
 				<h4 class="mb-15">Give you a complete account of the system</h4>
 				<div class="row">
-					<div class="col-18 mb-2"><p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure.</p></div>
-					<div class="col-md-12">
+					<div class="col-18 mb-2"><p>@Model.Description</p></div>
+						<div class="col-md-12">
 						<p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. Nor again is there anyone who loves or pursues.</p>
 						<div class="mt-2"></div>
 						<h4>List heading</h4>

@@ -1,5 +1,7 @@
 using Foxic.DAL;
+using Foxic.Entities;
 using Foxic.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,22 @@ builder.Services.AddDbContext<FoxicDbContext>(opt =>
 });
 
 builder.Services.AddScoped<LayoutService>();
+builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddIdentity<User, IdentityRole>(opt =>
+{
+	opt.Password.RequiredUniqueChars = 2;
+	opt.Password.RequireNonAlphanumeric = false;
+	opt.Password.RequireDigit = true;
+	opt.Password.RequireUppercase = false;
+	opt.Password.RequiredLength = 4;
+	opt.Password.RequireLowercase = true;
+
+	opt.User.RequireUniqueEmail = false;
+
+	opt.Lockout.MaxFailedAccessAttempts = 4;
+	opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+}).AddDefaultTokenProviders().AddEntityFrameworkStores<FoxicDbContext>();
 
 var app = builder.Build();
 
@@ -29,10 +47,22 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+
+app.UseEndpoints(endpoints =>
+{
+	endpoints.MapControllerRoute(
+	  name: "areas",
+	  pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+	);
+	endpoints.MapControllerRoute(
+		name: "default",
+		pattern: "{controller=Home}/{action=Index}/{id?}");
+});
+
 
 app.Run();
