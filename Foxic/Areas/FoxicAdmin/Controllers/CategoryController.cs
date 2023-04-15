@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Foxic.Areas.FoxicAdmin.Controllers
 {
-	[Area("ProniaAdmin")]
-	[Authorize(Roles = "Admin, Moderator")]
+	[Area("FoxicAdmin")]
+	//[Authorize(Roles = "Admin, Moderator")]
 	public class CategoryController : Controller
 	{
 		private readonly FoxicDbContext _context;
@@ -54,6 +54,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			return RedirectToAction(nameof(Index));
 		}
 
+
 		public IActionResult Edit(int id)
 		{
 			if (id == 0) return NotFound();
@@ -69,7 +70,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			if (id != edited.Id) return BadRequest();
 			Category category = _context.Categories.FirstOrDefault(c => c.Id == id);
 			if (category is null) return NotFound();
-			bool duplicate = _context.Categories.Any(c => c.Name == edited.Name && edited.Name != category.Name);//test == albert 
+			bool duplicate = _context.Categories.Any(c => c.Name == edited.Name && edited.Name != category.Name);
 			if (duplicate)
 			{
 				ModelState.AddModelError("", "You cannot duplicate category name");
@@ -79,5 +80,37 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			_context.SaveChanges();
 			return RedirectToAction(nameof(Index));
 		}
-	}
+
+
+
+		public IActionResult Delete(int id)
+		{
+			if (id == 0) return NotFound();
+			Category category = _context.Categories.FirstOrDefault(c => c.Id == id);
+			if (category is null) return NotFound();
+			return View();
+		}
+
+
+		[HttpPost]
+		public IActionResult Delete(int id, Category delete)
+		{
+			if (id != delete.Id) return BadRequest();
+			Category category = _context.Categories.FirstOrDefault(c => c.Id == id);
+			if (category is null) return NotFound();
+			delete = _context.Categories.FirstOrDefault(_c => _c.Id == id);
+			if (delete is null) return NotFound();
+			_context.Categories.Remove(delete);
+			_context.SaveChanges();
+			return RedirectToAction(nameof(Index));
+		}
+
+        public IActionResult Details(int id)
+        {
+            if (id <= 0) return NotFound();
+			Category categories = _context.Categories.FirstOrDefault(c=>c.Id==id);
+            if (categories is null) return NotFound();
+            return View(categories);
+        }
+    }
 }

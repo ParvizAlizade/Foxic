@@ -1,0 +1,30 @@
+﻿@model Foxic.Entities.Color
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Color</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ColorPath)
+        </dt>
+        <dd class = "col-sm-11">
+            <img style="width:200px;height:200px;object-fit:contain;" src="~/assets/images/Colors/@Model.ColorPath" />
+        </dd>
+    </dl>
+    
+    <form asp-action="Details">
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

@@ -1,4 +1,4 @@
-﻿namespace P230_Pronia.Utilities.Extensions
+﻿namespace Foxic.Utilities.Extensions
 {
     public static class FileUpload
     {
@@ -18,7 +18,6 @@
             return fileName;
 
         }
-
         public static bool IsValidLength(this IFormFile file,double size)
         {
             return (double)file.Length / 1024 / 1024 <= size;

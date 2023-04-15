@@ -16,8 +16,76 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\LENOVO\source\repos\Foxic\Foxic
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDYXRlZ29yeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Collection/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xsZWN0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Collection/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xsZWN0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Collection/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xsZWN0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Collection/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xsZWN0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Collection/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xsZWN0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Color/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Color/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Color/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xDb2xvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/source/repos/Foxic/Foxic/Views/Account/Login.cshtml]
