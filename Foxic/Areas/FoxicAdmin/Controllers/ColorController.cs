@@ -38,6 +38,14 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
         [AutoValidateAntiforgeryToken]
         public async Task<IActionResult> Create(Color newcolor)
         {
+            bool isDuplicated = _context.Colors.Any(c => c.Name == newcolor.Name);
+            if (isDuplicated)
+            {
+                ModelState.AddModelError("Name", "You cannot duplicate value");
+                return View();
+            }
+
+
             if (newcolor.Image == null)
             {
                 ModelState.AddModelError("Image", "Please choose image");
@@ -88,6 +96,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
                 FileUpload.DeleteImage(filePath);
                 color.ColorPath = await edited.Image.CreateImage(imagesFolderPath, "Colors");
             }
+
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
@@ -121,8 +130,5 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
             if (color is null) return NotFound();
             return View(color);
         }
-
-
-
     }
 }

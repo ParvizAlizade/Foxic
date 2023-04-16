@@ -340,6 +340,10 @@ namespace Foxic.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Button")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Desc")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -628,7 +632,7 @@ namespace Foxic.Migrations
             modelBuilder.Entity("Foxic.Entities.DressColorSize", b =>
                 {
                     b.HasOne("Foxic.Entities.Color", "Color")
-                        .WithMany("DressColorSizes")
+                        .WithMany()
                         .HasForeignKey("ColorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -741,11 +745,6 @@ namespace Foxic.Migrations
             modelBuilder.Entity("Foxic.Entities.Collection", b =>
                 {
                     b.Navigation("Dresses");
-                });
-
-            modelBuilder.Entity("Foxic.Entities.Color", b =>
-                {
-                    b.Navigation("DressColorSizes");
                 });
 
             modelBuilder.Entity("Foxic.Entities.Dress", b =>

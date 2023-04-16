@@ -805,8 +805,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\105lemon_yellow__85006.webp"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\162blue0517-4dfc85cb0200460ab717b101ac07888f.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\162blue0517-4dfc85cb0200460ab717b101ac07888f.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\1920x1080-bright-green-solid-color-background.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\1920x1080-bright-green-solid-color-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\2421002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\2421002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\250desk-3139127_1920-1200x773.jpg",
@@ -821,6 +829,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\2951558690312.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\356White_full.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\356White_full.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\35How-to-write-a-business-plan.png",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\35How-to-write-a-business-plan.png"
     },
@@ -829,12 +841,36 @@
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\3697-Digital-Marketing-Trends-for-2021-and-How-You-Can-Prepare-2.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\3761_org_zoom.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\3761_org_zoom.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\3Solid_red.svg.png",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\3Solid_red.svg.png"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\42vine-black-painted-swatch-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\42vine-black-painted-swatch-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\565White_full.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\565White_full.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\5807f345996843e4b4c563943334cbe1a13-2406851800_1_1_0.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\5807f345996843e4b4c563943334cbe1a13-2406851800_1_1_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\591002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\591002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\594blue0517-4dfc85cb0200460ab717b101ac07888f.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\594blue0517-4dfc85cb0200460ab717b101ac07888f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\6121002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\6121002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\615White_full.png",
@@ -849,20 +885,60 @@
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\67659ddbdc6ef95e.jpg"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\680vine-black-painted-swatch-300x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\Colors\\680vine-black-painted-swatch-300x300.jpg"
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\695pastel-pink-color-solid-background-1920x1080.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\695pastel-pink-color-solid-background-1920x1080.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\701203817421-1-lightblue.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\701203817421-1-lightblue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\723White_full.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\723White_full.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\749White_full.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\749White_full.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\789vine-black-painted-swatch-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\789vine-black-painted-swatch-300x300.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\795violet-color-solid-background-1920x1080.png",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\795violet-color-solid-background-1920x1080.png"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\822453155423x.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\822453155423x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\83487cf1b6e09490102905ffc66b8e614d8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\83487cf1b6e09490102905ffc66b8e614d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\8817e4640666929951aba868354cfa8f11d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\8817e4640666929951aba868354cfa8f11d.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\881920x1080-bright-green-solid-color-background.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\881920x1080-bright-green-solid-color-background.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\89987cf1b6e09490102905ffc66b8e614d8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\89987cf1b6e09490102905ffc66b8e614d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\957BW_British_Vogue_01_F10 copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\957BW_British_Vogue_01_F10 copy.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\991business-3224643_1920.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\991business-3224643_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\9981_org_zoom.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Colors\\9981_org_zoom.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\Colors\\Solid_red.svg.png",
@@ -893,290 +969,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\Colors\\violet-color-solid-background-1920x1080.png"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-account-dropdn.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-account-dropdn.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-collection-aside.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-collection-aside.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-09.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-09.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-10-transparent.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-10-transparent.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-11-transparent.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-11-transparent.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-12-transparent.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-12-transparent.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-13.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-13.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-14.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-14.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-15.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-15.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-16.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-16.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-17.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-17.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-18.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-18.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\banners\\banner-index-19.png",
-      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner-index-19.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-09.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-09.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-10.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-10.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-11.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-11.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-12.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-12.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\blog-13.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-13.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\comment-author-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-author-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\comment-author-3.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-author-3.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\comment-author.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-author.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\blog\\user-pic.png",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-pic.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\brand\\brand-logo-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-logo-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-09.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-09.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-10.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-10.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-11.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-11.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\categories\\category-img-12.png",
-      "PackagePath": "staticwebassets\\assets\\images\\categories\\category-img-12.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-black.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-black.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-blue.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-blue.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-darkyellow.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-darkyellow.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-green.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-green.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-grey.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-grey.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-marine.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-marine.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-mint.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-mint.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-orange.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-orange.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-pink.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-pink.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-red.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-red.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-violet.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-violet.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-white.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-white.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\colorswatch\\color-yellow.png",
-      "PackagePath": "staticwebassets\\assets\\images\\colorswatch\\color-yellow.png"
-    },
-    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\decor-fill.svg",
       "PackagePath": "staticwebassets\\assets\\images\\decor-fill.svg"
     },
@@ -1189,212 +981,8 @@
       "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\favicon.png",
-      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\flags\\de.png",
-      "PackagePath": "staticwebassets\\assets\\images\\flags\\de.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\flags\\en.png",
-      "PackagePath": "staticwebassets\\assets\\images\\flags\\en.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\flags\\fr.png",
-      "PackagePath": "staticwebassets\\assets\\images\\flags\\fr.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\flags\\sp.png",
-      "PackagePath": "staticwebassets\\assets\\images\\flags\\sp.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\footer-coupon.png",
-      "PackagePath": "staticwebassets\\assets\\images\\footer-coupon.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-3.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-4.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-5.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-6.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-7.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-8.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\gallery\\gallery-9.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\header-banner-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\header-banner-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\header-banner.png",
-      "PackagePath": "staticwebassets\\assets\\images\\header-banner.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\hello-image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\hello-image.png"
-    },
-    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\loader.svg",
       "PackagePath": "staticwebassets\\assets\\images\\loader.svg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-banner.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-banner.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-footer-white.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-footer-white.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-footer-white2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-footer-white2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-footer2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-footer2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-no-icon.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-no-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-popup.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-popup.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-popup2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-popup2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-white-sm.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-white-sm.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-white.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo-white2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-white2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\logo2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\map.png",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\map.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\menu-bottom-bnr.png",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-bottom-bnr.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\mmenu-bnr-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\mmenu-bnr-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\screen.png",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\screen.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\menu\\services.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\menu\\services.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\about-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\about-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\contact-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\contact-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\img-person-01.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-person-01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\img-person-02.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-person-02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\img-person-03.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-person-03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\img-person-04.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-person-04.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\size-table.png",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\size-table.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\pages\\tumbleweed.gif",
-      "PackagePath": "staticwebassets\\assets\\images\\pages\\tumbleweed.gif"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\payment\\guaranteed.png",
-      "PackagePath": "staticwebassets\\assets\\images\\payment\\guaranteed.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\payment\\safecheckout-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\payment\\safecheckout-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\payment\\safecheckout.png",
-      "PackagePath": "staticwebassets\\assets\\images\\payment\\safecheckout.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\popup-image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\popup-image.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\product-description-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\product-description-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\product-description-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\product-description-02.png"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\1002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
@@ -1403,6 +991,14 @@
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\1200px-Trousers-colourisolated.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\1200px-Trousers-colourisolated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\1371200px-Trousers-colourisolated.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\1371200px-Trousers-colourisolated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\178200913592-1-white.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\178200913592-1-white.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\1_org_zoom.jpg",
@@ -1429,6 +1025,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\products\\2_org_zoom.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\3171200px-Trousers-colourisolated.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\3171200px-Trousers-colourisolated.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\38fd0b8c2c4594123943b7d9af7b3599.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\38fd0b8c2c4594123943b7d9af7b3599.jpg"
     },
@@ -1437,8 +1037,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\products\\4117_1920x6671920x99991920x9999.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\4311_org_zoom.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\4311_org_zoom.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\453155423x.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\453155423x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\4571002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\4571002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\4_org_zoom.jpg",
@@ -1453,6 +1061,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\products\\519f2c73a72edeea97ee6d8d21e01d4fv3.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\53887cf1b6e09490102905ffc66b8e614d8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\53887cf1b6e09490102905ffc66b8e614d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\541lemon_yellow__85006.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\541lemon_yellow__85006.webp"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\7e4640666929951aba868354cfa8f11d.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\7e4640666929951aba868354cfa8f11d.jpg"
     },
@@ -1461,8 +1077,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\products\\7f345996843e4b4c563943334cbe1a13-2406851800_1_1_0.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\8261200px-Trousers-colourisolated.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\8261200px-Trousers-colourisolated.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\87cf1b6e09490102905ffc66b8e614d8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\87cf1b6e09490102905ffc66b8e614d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\9321002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\9321002760-face-women-model-portrait-depth-of-field-closed-eyes-women-with-glasses-sunglasses-glasses-reflection-hat-winter-blue-glass-fashion-hair-Fedora-spring-skin-clothing-hea.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\BW_British_Vogue_01_F10 copy.jpg",
@@ -1515,18 +1139,6 @@
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\products\\white-miami-graphic-print-oversized-crop-top-855_1024x.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\white-miami-graphic-print-oversized-crop-top-855_1024x.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\promo-fashion.png",
-      "PackagePath": "staticwebassets\\assets\\images\\promo-fashion.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\review-author-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\review-author-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\review-author.png",
-      "PackagePath": "staticwebassets\\assets\\images\\review-author.png"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\screen\\screen-bikes.png",
@@ -1631,578 +1243,6 @@
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\screen\\screen10.png",
       "PackagePath": "staticwebassets\\assets\\images\\screen\\screen10.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\banners\\banner-books-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\banners\\banner-books-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\image-book-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\image-book-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\logo-books-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\logo-books-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\logo-books-footer2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\logo-books-footer2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\logo-books.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\logo-books.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\logo-books2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\logo-books2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-09.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-09.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-10.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-10.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-11.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-11.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-12.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-12.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-13.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-13.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-14.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-14.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-15.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-15.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-16.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-16.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-17.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-17.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-18.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-18.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-19.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-19.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-20.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-20.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-21.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-21.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-22.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-22.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-23.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-23.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-24.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-24.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-25.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-25.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\products\\product-26.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\products\\product-26.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\books\\slider\\slide-books-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\books\\slider\\slide-books-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-full.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\banners\\banner-cosmetics-full.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\logo-cosmetics-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\logo-cosmetics-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\logo-cosmetics-footer2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\logo-cosmetics-footer2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\logo-cosmetics.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\logo-cosmetics.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\logo-cosmetics2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\logo-cosmetics2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-01-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-01-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-01-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-01-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-02-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-02-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-02-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-02-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-03-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-03-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-03-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-03-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-04-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-04-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-04-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-04-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-05-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-05-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-05-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-05-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-06-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-06-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-06-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-06-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-07-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-07-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-07-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-07-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-08-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-08-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-08-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-08-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-09-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-09-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-09-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-09-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-10-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-10-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-10-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-10-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-11-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-11-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-11-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-11-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-12-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-12-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-12-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-12-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-13-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-13-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-13-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-13-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-14-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-14-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-14-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-14-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-15-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-15-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-15-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-15-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-16-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-16-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\products\\product-16-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\products\\product-16-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\slider\\slide-cosmetics-01-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\slider\\slide-cosmetics-01-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\cosmetics\\slider\\slide-cosmetics-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\cosmetics\\slider\\slide-cosmetics-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\banners\\banner-books-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\banners\\banner-books-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\brand-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\brand-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-09.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-09.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-10.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-10.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-11.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-11.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\category-img-12.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\category-img-12.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\logo-electronics-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\logo-electronics-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\logo-electronics-footer2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\logo-electronics-footer2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\logo-electronics.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\logo-electronics.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\logo-electronics2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\logo-electronics2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-01-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-01-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-01-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-01-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-02-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-02-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-02-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-02-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-03-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-03-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-03-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-03-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-04-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-04-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-04-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-04-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-05-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-05-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-05-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-05-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-06-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-06-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-06-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-06-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-07-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-07-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-07-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-07-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-08-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-08-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-08-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-08-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-09-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-09-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-09-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-09-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-10-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-10-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-10-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-10-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-11-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-11-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-11-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-11-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-12-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-12-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-12-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-12-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-13-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-13-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-13-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-13-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-14-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-14-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\products\\product-14-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\products\\product-14-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\slider\\slide-electronics-01-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\slider\\slide-electronics-01-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\slider\\slide-electronics-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\slider\\slide-electronics-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\slider\\slide-electronics-02-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\slider\\slide-electronics-02-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\electronics\\slider\\slide-electronics-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\electronics\\slider\\slide-electronics-02.png"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fashion\\81EfbNvXZqL._AC_SL1417_.jpg",
@@ -2785,282 +1825,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\skins\\fashion\\slider\\slide-fashion-02.png"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\banners\\banner-fish-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\banners\\banner-fish-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\blog\\blog-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\blog\\blog-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\blog\\blog-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\blog\\blog-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\blog\\blog-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\blog\\blog-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\blog\\blog-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\blog\\blog-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\categories\\category-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\categories\\category-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\categories\\category-fish-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\categories\\category-fish-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\categories\\category-fish-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\categories\\category-fish-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\categories\\category-fish-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\categories\\category-fish-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\categories\\category-fish-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\categories\\category-fish-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\banner-fish-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\banner-fish-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\category-fish-01-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\category-fish-01-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\category-fish-01-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\category-fish-01-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\category-fish-01-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\category-fish-01-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\category-fish-01-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\category-fish-01-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\category-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\category-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\logo-fish.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\logo-fish.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\lookbook-fish.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\lookbook-fish.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\product-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\product-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\recent-right-image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\recent-right-image.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\slide-fish-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\slide-fish-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\slide-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\slide-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\images\\slide-fish-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\images\\slide-fish-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\logo-fishing-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\logo-fishing-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\logo-fishing.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\logo-fishing.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\logo-fishing2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\logo-fishing2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\lookbook-fish.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\lookbook-fish.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-01-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-01-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-02-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-02-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-02-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-02-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-03-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-03-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-03-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-03-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-04-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-04-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-04-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-04-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-05-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-05-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-05-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-05-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-06-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-06-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-06-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-06-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-07-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-07-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-07-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-07-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-08-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-08-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-08-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-08-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-09-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-09-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-09-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-09-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-10-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-10-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-10-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-10-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-lookbook-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-lookbook-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-lookbook-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-lookbook-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-lookbook-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-lookbook-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\products\\product-promo.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\products\\product-promo.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\recent-right-image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\recent-right-image.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-2-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-2-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-01-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-02-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-02-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\fishing\\slider\\slide-fish-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\fishing\\slider\\slide-fish-02.png"
-    },
-    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\food\\banners\\banner-food-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\skins\\food\\banners\\banner-food-01.png"
     },
@@ -3289,142 +2053,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\skins\\food\\slider\\slide-food-01.png"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\banner-games-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\banner-games-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\banner-games-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\banner-games-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\banner-games-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\banner-games-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\blog\\game-blog-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\blog\\game-blog-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\blog\\game-blog-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\blog\\game-blog-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\blog\\game-blog-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\blog\\game-blog-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\logo-games.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\logo-games.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\logo-games2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\logo-games2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\megamenu-game-banner.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\megamenu-game-banner.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-01-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-01-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-01-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-01-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-02-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-02-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-02-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-02-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-03-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-03-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-03-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-03-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-04-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-04-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-04-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-04-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-05-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-05-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-05-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-05-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-06-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-06-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-06-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-06-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-07-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-07-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-07-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-07-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-08-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-08-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-08-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-08-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-09-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-09-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-09-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-09-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-10-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-10-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-10-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-10-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-11-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-11-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-11-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-11-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-12-1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-12-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\products\\product-12-2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\products\\product-12-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\games\\slider\\video-screen.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\games\\slider\\video-screen.jpg"
-    },
-    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\helloween\\banners\\banner-helloween-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\skins\\helloween\\banners\\banner-helloween-01.png"
     },
@@ -3647,618 +2275,6 @@
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\helloween\\slider\\slide-helloween-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\skins\\helloween\\slider\\slide-helloween-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\banner-lingerie-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\banner-lingerie-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\banner-lingerie-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\banner-lingerie-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\banner-lingerie-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\banner-lingerie-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\blog\\blog-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\blog\\blog-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\blog\\blog-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\blog\\blog-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\blog\\blog-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\blog\\blog-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\blog\\blog-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\blog\\blog-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\image-lingerie-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\image-lingerie-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\image-lingerie-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\image-lingerie-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\logo-lingerie.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\logo-lingerie.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\lookbook-lingerie.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\lookbook-lingerie.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-01-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-01-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-02-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-02-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-02-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-02-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-03-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-03-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-03-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-03-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-04-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-04-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-04-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-04-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-05-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-05-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-05-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-05-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-06-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-06-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-06-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-06-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-07-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-07-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-07-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-07-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\products\\product-lookbook-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\products\\product-lookbook-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\lingeries\\slider\\slide-lingerie-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\lingeries\\slider\\slide-lingerie-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-05.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-05.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-07.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-07.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\banners\\banner-medical-08.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\banners\\banner-medical-08.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\blog\\blog-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\blog\\blog-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\blog\\blog-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\blog\\blog-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\blog\\blog-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\blog\\blog-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\blog\\blog-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\blog\\blog-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\image-medical-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\image-medical-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\logo-medical.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\logo-medical.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\logo-medical2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\logo-medical2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\menu\\mmenu-bnr-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\menu\\mmenu-bnr-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-01-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-01-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-02-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-02-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-02-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-02-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-03-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-03-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-03-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-03-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-04-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-04-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-04-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-04-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-05-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-05-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-05-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-05-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-06-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-06-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-06-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-06-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-07-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-07-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-07-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-07-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-08-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-08-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-08-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-08-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-09-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-09-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-09-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-09-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-10-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-10-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-10-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-10-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\products\\product-11-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\products\\product-11-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\medical\\slider\\slide-medical-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\medical\\slider\\slide-medical-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\banner-pets-01-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\banner-pets-01-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\banner-pets-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\banner-pets-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\banner-pets-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\banner-pets-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\banner-pets-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\banner-pets-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\banner-pets-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\banner-pets-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\icon-bg-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\icon-bg-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\icon-bg-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\icon-bg-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\icon-bg-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\icon-bg-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\logo-pets.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\logo-pets.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\logo-pets2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\logo-pets2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-bg-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-bg-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-category-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-category-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-category-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-category-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-category-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-category-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-category-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-category-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-center-image.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-center-image.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\pets-mmenu-banner.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\pets-mmenu-banner.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-01-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-01-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-02-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-02-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-02-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-02-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-03-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-03-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-03-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-03-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-04-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-04-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-04-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-04-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-05-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-05-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-05-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-05-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-06-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-06-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-06-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-06-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-07-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-07-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-07-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-07-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-08-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-08-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-08-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-08-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-09-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-09-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-09-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-09-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-10-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-10-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-10-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-10-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-11-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-11-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-12-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-12-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\products\\product-12-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\products\\product-12-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\pets\\slider\\slide-pets-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\pets\\slider\\slide-pets-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\banner-viping-fullwidth.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\banner-viping-fullwidth.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-01-bg.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-01-bg.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-01_100x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-01_100x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-02-bg.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-02-bg.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-02.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-02.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-02_100x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-02_100x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-03-bg.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-03-bg.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\image-viping-03_100x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\image-viping-03_100x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\logo-viping-footer.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\logo-viping-footer.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\logo-viping-footer2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\logo-viping-footer2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\logo-viping.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\logo-viping.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\logo-viping2x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\logo-viping2x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\product-single-bg.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\product-single-bg.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\product-viping-icons.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\product-viping-icons.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\product-viping-icons_100x.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\product-viping-icons_100x.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\products\\product-01-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\products\\product-01-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\products\\product-01-3.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\products\\product-01-3.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\products\\product-01-4.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\products\\product-01-4.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\products\\product-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\products\\product-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\skins\\viping\\slider\\slide-viping.png",
-      "PackagePath": "staticwebassets\\assets\\images\\skins\\viping\\slider\\slide-viping.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\simple-slide-01-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\simple-slide-01-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\simple-slide-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\simple-slide-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide-03-1-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-03-1-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide-03-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-03-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide-03-2-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-03-2-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide-03-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-03-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide-video.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-video.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide4-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide4-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slide4.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide4.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-06-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-06-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-06.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-06.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-collection-01.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-collection-01.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-collection-03-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-collection-03-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-collection-03.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-collection-03.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-collection-04-m.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-collection-04-m.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-collection-04.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-collection-04.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-fullheight-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-fullheight-1.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-fullheight-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-fullheight-2.png"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\images\\slider\\slider-video.mp4",
-      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-video.mp4"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Foxic\\Foxic\\wwwroot\\assets\\js\\app-html.js",
