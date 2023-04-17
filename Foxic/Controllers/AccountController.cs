@@ -3,6 +3,9 @@ using Foxic.Utilities.Roles;
 using Foxic.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.Differencing;
+using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol.Plugins;
 using System.Data;
 
 namespace Foxic.Controllers
@@ -82,11 +85,7 @@ namespace Foxic.Controllers
 			return RedirectToAction("Index", "Home");
 		}
 
-		public IActionResult ShowAuthen()
-		{
-			return Json(HttpContext.User.Identity.IsAuthenticated);
-
-		}
+		
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
@@ -99,5 +98,21 @@ namespace Foxic.Controllers
 		//	await _roleManager.CreateAsync(new IdentityRole(Roles.Moderator.ToString()));
 		//	await _roleManager.CreateAsync(new IdentityRole(Roles.Member.ToString()));
 		//}
-	}
+
+
+		public async Task<IActionResult> UserDetails()
+        {
+            if (!ModelState.IsValid) return View();
+            User user = await _userManager.FindByNameAsync(User.Identity.Name);
+			UserVM userVM = new()
+			{
+				Email = user.Email,
+				Fullname=user.Fullname,
+				Username = user.UserName
+			};
+            return View(userVM);
+        }
+
+
+    }
 }
