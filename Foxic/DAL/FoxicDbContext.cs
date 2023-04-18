@@ -25,12 +25,15 @@ namespace Foxic.DAL
 		public DbSet<Tag> Tags { get; set; }
 		public DbSet<Slider> Sliders { get; set; }
 		public DbSet<Size> Sizes { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Basket> Baskets { get; set; }
+        public DbSet<BasketItem> BasketItems { get; set; }
+        public DbSet<WishListItem>WishListItems { get; set; }
 
 
 
 
-
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			modelBuilder.Entity<Setting>()
 				.HasIndex(s => s.Key)

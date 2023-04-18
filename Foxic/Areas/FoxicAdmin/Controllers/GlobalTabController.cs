@@ -58,7 +58,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		public IActionResult Edit(int id)
 		{
 			if (id == 0) return NotFound();
-			GlobalTab globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
+			GlobalTab? globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
 			if (globalTab is null) return NotFound();
 			return View(globalTab);
 		}
@@ -68,7 +68,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		public IActionResult Edit(int id, GlobalTab edited)
 		{
 			if (id != edited.Id) return BadRequest();
-			GlobalTab globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
+			GlobalTab? globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
 			if (globalTab is null) return NotFound();
 			bool duplicate = _context.GlobalTabs.Any(c => c.Description == edited.Description && edited.Description != globalTab.Description);
 			if (duplicate)
@@ -86,7 +86,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		public IActionResult Delete(int id)
 		{
 			if (id == 0) return NotFound();
-			GlobalTab globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
+			GlobalTab? globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
 			if (globalTab is null) return NotFound();
 			return View(globalTab);
 		}
@@ -96,7 +96,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		public IActionResult Delete(int id, GlobalTab delete)
 		{
 			if (id != delete.Id) return BadRequest();
-			GlobalTab globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
+			GlobalTab? globalTab = _context.GlobalTabs.FirstOrDefault(c => c.Id == id);
 			if (globalTab is null) return NotFound();
 			delete = _context.GlobalTabs.FirstOrDefault(_c => _c.Id == id);
 			if (delete is null) return NotFound();
@@ -108,7 +108,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
         public IActionResult Details(int id)
         {
             if (id <= 0) return NotFound();
-			GlobalTab globalTab = _context.GlobalTabs.FirstOrDefault(c=>c.Id==id);
+			GlobalTab? globalTab = _context.GlobalTabs.FirstOrDefault(c=>c.Id==id);
             if (globalTab is null) return NotFound();
             return View(globalTab);
         }

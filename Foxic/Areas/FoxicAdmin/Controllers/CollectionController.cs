@@ -85,7 +85,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
             if (id == 0) return NotFound();
             Collection collection = _context.Collections.FirstOrDefault(c => c.Id == id);
             if (collection is null) return NotFound();
-            return View();
+            return View(collection);
         }
 
 

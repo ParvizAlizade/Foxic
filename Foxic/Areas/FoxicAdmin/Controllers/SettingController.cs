@@ -38,7 +38,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 
                 return View();
             }
-            bool isDuplicated = _context.Settings.Any(i => i.Key == newsetting.Key ||  i.Value == newsetting.Value);
+            bool isDuplicated = _context.Settings.Any(i => i.Key == newsetting.Key || i.Value == newsetting.Value);
             if (isDuplicated)
             {
                 ModelState.AddModelError("", "You cannot duplicate value");

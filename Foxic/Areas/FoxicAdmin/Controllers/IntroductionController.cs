@@ -21,6 +21,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
             return View(introductions);
         }
 
+
         public IActionResult Create()
         {
             return View();
@@ -39,7 +40,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 
                 return View();
             }
-            bool isDuplicated = _context.Introductions.Any(i => i.DryClean == newintro.DryClean || i.Polyester==newintro.Polyester || i.Chlorine==newintro.Chlorine || i.Lining==newintro.Lining );
+            bool isDuplicated = _context.Introductions.Any(i => i.DryClean == newintro.DryClean && i.Polyester==newintro.Polyester && i.Chlorine==newintro.Chlorine && i.Lining==newintro.Lining );
             if (isDuplicated)
             {
                 ModelState.AddModelError("", "You cannot duplicate value");
@@ -51,8 +52,6 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
-
-
 
 
         public IActionResult Edit(int id)
@@ -77,7 +76,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 
             if (duplicate)
             {
-                ModelState.AddModelError("", "You cannot duplicate");
+                ModelState.AddModelError("", "You cannot duplicate same values,If You Dont Want To Change something please click back to list");
                 return View(introduction);
             }
             introduction.Polyester = edited.Polyester;

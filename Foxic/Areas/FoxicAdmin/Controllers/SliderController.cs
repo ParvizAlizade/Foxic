@@ -30,6 +30,29 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Slider newSlider)
         {
+            if (!ModelState.IsValid)
+            {
+                foreach (string message in ModelState.Values.SelectMany(v => v.Errors)
+                                    .Select(e => e.ErrorMessage))
+                {
+                    ModelState.AddModelError("", message);
+                }
+
+                return View();
+            }
+
+            bool isDuplicatedOrder = _context.Sliders.Any(s => s.Order == newSlider.Order);
+            if (isDuplicatedOrder)
+            {
+                ModelState.AddModelError("Order", "You cannot duplicate Order");
+                return View();
+            }
+
+            if (newSlider.Image is null)
+            {
+                ModelState.AddModelError("Image", "Please choose image");
+                return View();
+            }
             if (!newSlider.Image.IsValidLength(1))
             {
                 ModelState.AddModelError("Image","Image must be maximum 1MB");
@@ -73,12 +96,27 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 
             _context.Entry(slider).CurrentValues.SetValues(edited);
 
+            
+            if (edited.Image is not null)
+            {
+                
+            if (!edited.Image.IsValidLength(1))
+            {
+                ModelState.AddModelError("Image", "Image must be maximum 1MB");
+                return View();
+            }
+            if (!edited.Image.IsValidFile("image/"))
+            {
+                ModelState.AddModelError("Image", "Please choose image type file");
+                return View();
+            }
             if (edited.Image is not null)
             {
                 string imagesFolderPath = Path.Combine(_env.WebRootPath, "assets", "images");
                 string filePath = Path.Combine(imagesFolderPath, "products", slider.ImagePath);
                 FileUpload.DeleteImage(filePath);
                 slider.ImagePath = await edited.Image.CreateImage(imagesFolderPath, "products");
+            }
             }
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));

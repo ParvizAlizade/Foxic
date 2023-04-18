@@ -86,7 +86,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
             if (id == 0) return NotFound();
             Size size = _context.Sizes.FirstOrDefault(s => s.Id == id);
             if (size is null) return NotFound();
-            return View();
+            return View(size);
         }
 
 

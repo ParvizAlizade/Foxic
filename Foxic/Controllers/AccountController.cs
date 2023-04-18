@@ -113,6 +113,12 @@ namespace Foxic.Controllers
             return View(userVM);
         }
 
+		public async Task<IActionResult> Checkout()
+		{
+			return View();
+		}
+		
+
 
     }
 }

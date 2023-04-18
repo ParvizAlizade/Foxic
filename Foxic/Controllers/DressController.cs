@@ -55,6 +55,8 @@ namespace Foxic.Controllers
 									 .Include(p => p.DressImages).ToList();
 			return View(dresses);
 		}
+
+
 		public IActionResult Details(int id)
 		{
 			if (id == 0) return NotFound();

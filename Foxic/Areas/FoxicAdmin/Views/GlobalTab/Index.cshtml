@@ -22,14 +22,8 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                    @if (item.Description.Length <= 30)
-                    {
-                        @Html.DisplayFor(x => item.Description)
-                    }
-                    else
-                    {
-                        @(item.Description.ToString().Substring(0,30))
-                    }
+                    @(item.Description.Length > 15 ? string.Concat(item.Description.Substring(0,150), ".....") : item.Description)
+
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

@@ -1,7 +1,7 @@
 ﻿namespace Foxic.Entities
 {
-	public abstract class BaseEntity
-	{
-		public int Id { get; set; }
-	}
+    public class BaseEntity
+    {
+        public int Id { get; set; }
+    }
 }
