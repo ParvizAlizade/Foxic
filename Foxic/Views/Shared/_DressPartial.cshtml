@@ -8,15 +8,15 @@
 											<a asp-controller="Dress" asp-action="Details" asp-route-id="@dresses.Id" class="prd-img image-hover-scale image-container">
 											<img 
 												 src="/assets/images/products/@dresses.DressImages.FirstOrDefault(di=>di.IsMain==true)?.Path"
-												 alt="Leather Pegged Pants" class="js-prd-img lazyload fade-up">
+												 alt="" class="js-prd-img lazyload fade-up">
 											<div class="foxic-loader"></div>
 											<div class="prd-big-squared-labels">
 											</div>
 										</a>
 										<div class="prd-circle-labels">
-											<a href="#"
+											<a
 											   class="circle-label-compare circle-label-wishlist--add js-add-wishlist mt-0"
-											   title="Add To Wishlist"><i class="icon-heart-stroke"></i></a><a href="#"
+										title="Add To Wishlist"><i class="icon-heart-stroke"></i></a><a 
 																						   class="circle-label-compare circle-label-wishlist--off js-remove-wishlist mt-0"
 																						   title="Remove From Wishlist"><i class="icon-heart-hover"></i></a>
 											<a href="#" class="circle-label-qview js-prd-quickview prd-hide-mobile"
@@ -64,19 +64,17 @@
 											<div class="prd-rating justify-content-center">
 												<i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i><i class="icon-star-fill fill"></i>
 											</div>
-						<div class="prd-tag"><a asp-controller="Dress" asp-action="Details" asp-route-id="@dresses.Id">@dresses.Collection.Name</a></div>
+											<div class="prd-tag"><a asp-controller="Dress" asp-action="Details" asp-route-id="@dresses.Id">@dresses.Collection.Name</a></div>
 											<h2 class="prd-title">
 												<a asp-controller="Dress" asp-action="Details" asp-route-id="@dresses.Id">@dresses.Name</a>
-											</h2>
 											<div class="prd-description">
 												Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad
 												litora torquent per conubia nostra, per inceptos himenaeos. Nam nec
 												ante sed lacinia.
 											</div>
 											<div class="prd-action">
-												<form action="#">
-													<button asp-action="AddBaskets" asp-controller="Order" asp-route-id="@dresses.Id" class="btn js-prd-addtocart"
-															data-product='{"name": "Leather Pegged Pants", "path":"/assets/images/skins/fashion/products/product-01-1.jpg", "url":"product.html", "aspect_ratio":0.778}'>
+												<form method="post" asp-action="Addbaskets" asp-controller="Order" asp-route-dressid="@dresses.Id">
+													<button asp-action="AddBaskets" asp-controller="Order" asp-route-id="@dresses.Id" class="btn js-prd-addtocart">
 														Add
 														To Cart
 													</button>
@@ -105,15 +103,14 @@
 												</div>
 											</div>
 											<div class="prd-price">
-												<div class="price-new">$@dresses.Price</div>
+												<del>$@dresses.Price  </del>
+												<div class="price-new"> $@dresses.DisountPrice</div>
 											</div>
 											<div class="prd-action">
 												<div class="prd-action-left">
-													<form action="#">
-														<button class="btn js-prd-addtocart"
-																data-product='{"name": "Leather Pegged Pants", "path":"/assets/images/skins/fashion/products/product-01-1.jpg", "url":"product.html", "aspect_ratio":0.778}'>
-															Add
-															To Cart
+													<form  asp-controller="Dress" asp-action="Details" asp-route-id="@dresses.Id">
+														<button class="btn js-prd-addtocart">
+															Detail
 														</button>
 													</form>
 												</div>

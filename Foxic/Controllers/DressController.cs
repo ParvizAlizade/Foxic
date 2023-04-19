@@ -61,13 +61,14 @@ namespace Foxic.Controllers
 		{
 			if (id == 0) return NotFound();
 			IQueryable<Dress> dresses = _context.Dresses.AsNoTracking().AsQueryable();
-			Dress? dress = dresses
-								.Include(d => d.DressImages)
-										.Include(d => d.DressTags)
-											 .ThenInclude(dt => dt.Tag)
-                                              .Include(d=>d.Collection)
-                                              .Include(d=>d.Introduction)
-                                               .Include(d=>d.DressColorSizes).ThenInclude(dsc=>dsc.Color)
+            Dress? dress = dresses
+                                .Include(d => d.DressImages)
+                                        .Include(d => d.DressTags)
+                                             .ThenInclude(dt => dt.Tag)
+                                              .Include(d => d.Collection)
+                                              .Include(d => d.Introduction)
+                                               .Include(d => d.DressColorSizes).ThenInclude(dsc => dsc.Color)
+                                               .Include(dsc => dsc.DressColorSizes).ThenInclude(a=>a.Size)
 												.Include(d => d.DressCategories)
 												 .ThenInclude(dc => dc.Category).AsSingleQuery().FirstOrDefault(d => d.Id == id);
 
@@ -75,8 +76,9 @@ namespace Foxic.Controllers
 
 
 			ViewBag.Colors = dress.DressColorSizes.DistinctBy(p => p.ColorId).Select(p => new Color() { Id = p.ColorId, Name = p.Color.Name }).ToList();
-			ViewBag.Sizes = _context.Sizes.ToList();
-            ViewBag.MainPath = _context.DressImages.FirstOrDefault(i=> (bool)i.IsMain);
+			ViewBag.Sizes = dress.DressColorSizes.DistinctBy(p => p.SizeId).Select(p => new Size() { Id = p.SizeId, Name = p.Size.Name }).ToList();
+
+			ViewBag.MainPath = _context.DressImages.FirstOrDefault(i=> (bool)i.IsMain);
 			ViewBag.Relateds = RelatedDresses(dresses, dress, id);
 			return View(dress);
 		}

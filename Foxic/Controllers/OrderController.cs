@@ -18,8 +18,8 @@ namespace Foxic.Controllers
             _userManager = userManager;
         }
 
-		public IActionResult Index()
-		{
+		public IActionResult Index() 
+		{  
             if (!User.Identity.IsAuthenticated)
             {
                 return View(new List<WishListItemVM>());
@@ -39,9 +39,9 @@ namespace Foxic.Controllers
 
         }
 
-        public async Task<IActionResult> AddToWishList(int dressIdd)
+        public async Task<IActionResult> AddToWishList(int id)
         {
-            Dress dress=await _context.Dresses.FindAsync(dressIdd);
+            Dress dress=await _context.Dresses.FindAsync(id);
             if(dress==null) { return NotFound(); }
 
             if (!User.Identity.IsAuthenticated)
@@ -49,14 +49,14 @@ namespace Foxic.Controllers
                 return RedirectToAction("Login","Account");
             }
             User user=await _userManager.FindByNameAsync(User.Identity.Name);
-            WishListItem userWishListItem=await _context.WishListItems.FirstOrDefaultAsync(w=>w.UserId==user.Id && w.DressId==dressIdd);
+            WishListItem userWishListItem=await _context.WishListItems.FirstOrDefaultAsync(w=>w.UserId==user.Id && w.DressId==id);
 
             if(userWishListItem==null)
             {
                 userWishListItem = new WishListItem
                 {
                     UserId = user.Id,
-                    DressId = dressIdd,
+                    DressId = id,
                 };
                 _context.WishListItems.Add(userWishListItem);
             }
@@ -69,7 +69,7 @@ namespace Foxic.Controllers
         public async Task<IActionResult>  RemoveFromWishList  (int wishlistitemid)
         {
             User user = await _userManager.FindByNameAsync(User.Identity.Name);
-            WishListItem? wishListItem = await _context.WishListItems
+            WishListItem wishListItem = await _context.WishListItems
                             .FirstOrDefaultAsync(wli => wli.UserId == user.Id && wli.Id == wishlistitemid);
 
             if (wishListItem==null) 
@@ -81,7 +81,6 @@ namespace Foxic.Controllers
 
             return RedirectToAction(nameof(Index));
         }
-
 
         public async Task<IActionResult> Addbaskets(int dressid, Dress basketdress)
         {
@@ -100,8 +99,8 @@ namespace Foxic.Controllers
             {
                 return RedirectToAction("Login", "Account");
             }
-            BasketItem? item = _context.BasketItems.FirstOrDefault(b => b.Dresscolorsize == dressColorSize);
-            Basket? userActiveBasket = _context.Baskets
+            BasketItem item = _context.BasketItems.FirstOrDefault(b => b.Dresscolorsize == dressColorSize);
+            Basket userActiveBasket = _context.Baskets
                 .Include(b => b.User)
                 .Include(b => b.BasketItems)
                 .ThenInclude(bi => bi.Dresscolorsize)
@@ -117,7 +116,7 @@ namespace Foxic.Controllers
                 _context.Baskets.Add(userActiveBasket);
             }
 
-            BasketItem? items = userActiveBasket.BasketItems.FirstOrDefault(b => b.Dresscolorsize == dressColorSize);
+            BasketItem items = userActiveBasket.BasketItems.FirstOrDefault(b => b.Dresscolorsize == dressColorSize);
 
             if (items is not null)
             {
@@ -151,7 +150,7 @@ namespace Foxic.Controllers
 
             if (item is not null)
             {
-                Basket? userActiveBasket = _context.Baskets
+                Basket userActiveBasket = _context.Baskets
                     .Include(b => b.User)
                     .Include(b => b.BasketItems)
                     .ThenInclude(i => i.Dresscolorsize)

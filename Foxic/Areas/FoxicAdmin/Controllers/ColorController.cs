@@ -12,6 +12,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 {
     [Area("FoxicAdmin")]
     [Authorize(Roles ="Admin,Moderator")]
+
     public class ColorController : Controller
     {
         private readonly FoxicDbContext _context;

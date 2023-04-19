@@ -1,4 +1,9 @@
 ﻿@inject Foxic.Services.LayoutService layoutservice
+@{
+	var baskets = layoutservice.GetBasketItem();
+	var basket = layoutservice.GetBasketItems();
+
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,7 +52,7 @@
 									<div class="dropdn-content">
 										<div class="container">
 											<form method="get" action="#" class="search search-off-popular">
-												<input name="search" type="text" class="search-input input-empty" placeholder="What are you looking for?">
+												<input name="search" type="text" class="search-input input-empty" >
 												<button type="submit" class="search-button"><i class="icon-search"></i></button>
 												<a href="#" class="search-close js-dropdn-close"><i class="icon-close-thin"></i></a>
 											</form>
@@ -178,7 +183,7 @@
 							<!--mmenu-->
 							<ul class="mmenu mmenu-js">
 								<li class="mmenu-item--simple">
-									<a asp-controller="Home" asp-action="index" class="active">Home</a>
+									<a asp-controller="Home" asp-action="index">Home</a>
 								</li>
 						
 								<li class="mmenu-item--simple">
@@ -226,8 +231,7 @@
 								<div class="dropdn dropdn_fullheight minicart">
 									<a href="#" class="dropdn-link js-dropdn-link minicart-link" data-panel="#dropdnMinicart">
 										<i class="icon-basket"></i>
-										<span class="minicart-qty">3</span>
-										<span class="minicart-total hide-mobile">$34.99</span>
+										<span class="minicart-qty">@(baskets is null ? "0" : baskets.Count)</span>
 									</a>
 								</div>
 							</div>
@@ -456,10 +460,12 @@
 				{
 					<ul>
 						<li>@User.Identity.Name</li>
+						@if (User.Identity.Name=="perviz")
+						{
+							<li><a asp-controller="Category" asp-area="FoxicAdmin" asp-action="Index">Admin Panel</a></li>
+						}
 						<li><a href="checkout.html"><span>Checkout</span><i class="icon-card"></i></a></li>
 						<li><a asp-controller="Account" asp-action="LogOut">Log out</a></li>
-						<li><a href="checkout.html"><span>Checkout</span><i class="icon-card"></i></a></li>
-
 					</ul>
 				}
 				else
@@ -477,40 +483,33 @@
 			<div class="dropdn-content-block">
 				<div class="dropdn-close"><span class="~/assets/js-dropdn-close">Close</span></div>
 				<div class="minicart-drop-content js-dropdn-content-scroll">
-					<div class="minicart-prd row">
-						<div class="minicart-prd-image image-hover-scale-circle col">
-							<a href="product.html"><img class="lazyload fade-up" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="~/assets/images/skins/fashion/products/product-01-1.jpg" alt=""></a>
-						</div>
-						<div class="minicart-prd-info col">
-							<div class="minicart-prd-tag">FOXic</div>
-							<h2 class="minicart-prd-name"><a href="#">Leather Pegged Pants</a></h2>
-							<div class="minicart-prd-qty"><span class="minicart-prd-qty-label">Quantity:</span><span class="minicart-prd-qty-value">1</span></div>
-							<div class="minicart-prd-price prd-price">
-								<div class="price-old">$200.00</div>
-								<div class="price-new">$180.00</div>
+					@foreach (var item in baskets)
+					{
+						Dress? dresses = layoutservice.GetDresses().FirstOrDefault(p => p.Id == item.ProductId);
+						BasketItem? baskett = basket.FirstOrDefault(p => p.ProductSizeColorId == item.ProductSizeColorId);
+						@if (dresses is not null)
+						{
+							<div class="minicart-prd row">
+								<div class="minicart-prd-image image-hover-scale-circle col">
+									<a href="product.html"><img class="lazyload fade-up" src="~/assets/images/products/@dresses.DressImages.FirstOrDefault(x=>x.IsMain==true)?.Path" alt=""></a>
+								</div>
+								<div class="minicart-prd-info col">
+									<div class="minicart-prd-tag">FOXic</div>
+									<h2 class="minicart-prd-name"><a href="#">@dresses.Name</a></h2>
+									<div class="minicart-prd-qty"><span class="minicart-prd-qty-label">Quantity: @item.Quantity</span></div>
+									<div class="minicart-prd-price prd-price">
+										<div class="price-old">$@dresses.Price</div>
+										<div class="price-new">$@dresses.DisountPrice</div>
+									</div>
+								</div>
+								<div class="minicart-prd-action">
+									<a asp-controller="Order" asp-action="RemoveBasketItem" asp-route-basketItemId="@baskett.Id" class="product-remove" data-line-number="1"><i class="icon-recycle"></i></a>
+								</div>
 							</div>
-						</div>
-						<div class="minicart-prd-action">
-							<a href="#" class="~/assets/js-product-remove" data-line-number="1"><i class="icon-recycle"></i></a>
-						</div>
-					</div>
-					<div class="minicart-prd row">
-						<div class="minicart-prd-image image-hover-scale-circle col">
-							<a href="product.html"><img class="lazyload fade-up" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="~/assets/images/skins/fashion/products/product-16-1.jpg" alt=""></a>
-						</div>
-						<div class="minicart-prd-info col">
-							<div class="minicart-prd-tag">FOXic</div>
-							<h2 class="minicart-prd-name"><a href="#">Cascade Casual Shirt</a></h2>
-							<div class="minicart-prd-qty"><span class="minicart-prd-qty-label">Quantity:</span><span class="minicart-prd-qty-value">1</span></div>
-							<div class="minicart-prd-price prd-price">
-								<div class="price-old">$200.00</div>
-								<div class="price-new">$180.00</div>
-							</div>
-						</div>
-						<div class="minicart-prd-action">
-							<a href="#" class="~/assets/js-product-remove" data-line-number="2"><i class="icon-recycle"></i></a>
-						</div>
-					</div>
+						}
+						
+
+					}
 					<div class="minicart-empty js-minicart-empty d-none">
 						<div class="minicart-empty-text">Your cart is empty</div>
 						<div class="minicart-empty-icon">
@@ -524,7 +523,7 @@
 					<div class="loader-horizontal-sm js-loader-horizontal-sm" data-loader-horizontal=""><span></span></div>
 					<div class="minicart-drop-total js-minicart-drop-total row no-gutters align-items-center">
 						<div class="minicart-drop-total-txt col-auto heading-font">Subtotal</div>
-						<div class="minicart-drop-total-price col" data-header-cart-total="">$340</div>
+						<div class="minicart-drop-total-price col" data-header-cart-total=""></div>
 					</div>
 					<div class="minicart-drop-actions">
 						<a href="cart.html" class="btn btn--md btn--grey"><i class="icon-basket"></i><span>Cart Page</span></a>

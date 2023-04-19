@@ -1,11 +1,14 @@
 ﻿using Foxic.DAL;
 using Foxic.Entities;
+using Foxic.Utilities.Roles;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Foxic.Areas.FoxicAdmin.Controllers
 {
     [Area("FoxicAdmin")]
-    public class IntroductionController : Controller
+	[Authorize(Roles = "Admin, Moderator")]
+	public class IntroductionController : Controller
     {
         private readonly FoxicDbContext _context;
         private readonly IWebHostEnvironment _env;

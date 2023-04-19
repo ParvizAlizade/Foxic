@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Foxic.Areas.FoxicAdmin.Controllers
 {
 	[Area("FoxicAdmin")]
-	//[Authorize(Roles = "Admin, Moderator")]
+	[Authorize(Roles = "Admin, Moderator")]
 	public class GlobalTabController : Controller
 	{
 		private readonly FoxicDbContext _context;

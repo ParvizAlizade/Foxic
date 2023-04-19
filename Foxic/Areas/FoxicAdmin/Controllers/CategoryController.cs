@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Foxic.Areas.FoxicAdmin.Controllers
 {
 	[Area("FoxicAdmin")]
-	//[Authorize(Roles = "Admin, Moderator")]
+	[Authorize(Roles = "Admin, Moderator")]
 	public class CategoryController : Controller
 	{
 		private readonly FoxicDbContext _context;
@@ -22,10 +22,14 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			return View(categories);
 		}
 
+
+
 		public IActionResult Create()
 		{
 			return View();
 		}
+
+
 
 		[HttpPost]
 		[AutoValidateAntiforgeryToken]
@@ -55,6 +59,8 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		}
 
 
+
+
 		public IActionResult Edit(int id)
 		{
 			if (id == 0) return NotFound();
@@ -62,6 +68,8 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			if (category is null) return NotFound();
 			return View(category);
 		}
+
+
 
 		[HttpPost]
 		[AutoValidateAntiforgeryToken]
@@ -92,6 +100,7 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 		}
 
 
+
 		[HttpPost]
 		public IActionResult Delete(int id, Category delete)
 		{
@@ -104,6 +113,8 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
 			_context.SaveChanges();
 			return RedirectToAction(nameof(Index));
 		}
+
+
 
         public IActionResult Details(int id)
         {

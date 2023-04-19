@@ -30,7 +30,7 @@ namespace Foxic.Services
             return settings;
         }
 
-        public List<BasketItem> GetBasketItems()
+        public List<BasketItem>? GetBasketItems()
         {
             List<BasketItem> basket = _context.BasketItems.Include(b => b.Dresscolorsize.Dress).ThenInclude(dcs => dcs.DressImages).ToList();
             return basket;
@@ -45,7 +45,7 @@ namespace Foxic.Services
         public List<BasketItemVM> GetBasketItem()
         {
             List<BasketItemVM> items = new();
-            User? useer = new();
+            User useer = new();
 
             if (_accessor.HttpContext.User.Identity.IsAuthenticated)
             {
@@ -65,5 +65,7 @@ namespace Foxic.Services
             }).ToList();
             return items;
         }
+
+
     }
 }

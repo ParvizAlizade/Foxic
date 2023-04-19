@@ -80,6 +80,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xEcmVzc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Dress/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xEcmVzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Dress/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xEcmVzc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Dress/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xEcmVzc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/source/repos/Foxic/Foxic/Areas/FoxicAdmin/Views/Dress/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRm94aWNBZG1pblxWaWV3c1xEcmVzc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

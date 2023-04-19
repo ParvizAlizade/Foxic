@@ -1,12 +1,15 @@
 ﻿using Foxic.DAL;
 using Foxic.Entities;
 using Foxic.Utilities.Extensions;
+using Foxic.Utilities.Roles;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Foxic.Areas.FoxicAdmin.Controllers
 {
     [Area("FoxicAdmin")]
-    public class SliderController : Controller
+	[Authorize(Roles = "Admin, Moderator")]
+	public class SliderController : Controller
     {
         private readonly FoxicDbContext _context;
         private readonly IWebHostEnvironment _env;
@@ -53,9 +56,9 @@ namespace Foxic.Areas.FoxicAdmin.Controllers
                 ModelState.AddModelError("Image", "Please choose image");
                 return View();
             }
-            if (!newSlider.Image.IsValidLength(1))
+            if (!newSlider.Image.IsValidLength(3))
             {
-                ModelState.AddModelError("Image","Image must be maximum 1MB");
+                ModelState.AddModelError("Image","Image must be maximum 3MB");
                 return View();
             }
             if (newSlider.Image == null)
